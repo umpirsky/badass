@@ -3,7 +3,7 @@ This is a badass repository.
 
 Any badass pull request will be merged.
 
-Thanks to https://github.com/xDragonZ for our new logo.
+Thanks to https://github.com/xDragonZ for our new badass logo.
 ___
 ```
  __                   __                             

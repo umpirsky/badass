@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>badass</title>
+        <base href="https://example.com"/>
+    </head>
+    <body>
+        <style>
+            body {
+                margin: 0;
+            }
+            #superhero {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-flow: column;
+                overflow: hidden;
+                width: 100vw;
+                height: 100vh;
+            }
+            #superhero div {
+                display: flex;
+                flex-flow: row;
+            }
+            img.emojione {
+                height: 16vw;
+                min-height: 16vh;
+            }
+        </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.1.0/assets/css/emojione.min.css" charset="utf-8"/>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.1.0/lib/js/emojione.min.js"></script>
+        <article id="superhero">
+            <div>
+                <span class="yooj"> 💃 </span>
+                <span class="yooj"> 💰 </span>
+                <span class="yooj"> 💎 </span>
+                <span class="yooj"> 🎰 </span>
+                <span class="yooj"> 💎 </span>
+                <span class="yooj"> 💰 </span>
+                <span class="yooj"> 💃 </span>
+            </div>
+            <div>
+                <span class="yooj"> 💰 </span>
+                <span class="yooj"> 💃 </span>
+                <span class="yooj"> 💴 </span>
+                <span class="yooj"> 🏦 </span>
+                <span class="yooj"> 💴 </span>
+                <span class="yooj"> 💃 </span>
+                <span class="yooj"> 💰 </span>
+            </div>
+            <div>
+                <span class="yooj"> 💎 </span>
+                <span class="yooj"> 💵 </span>
+                <span class="yooj"> 🎰 </span>
+                <span class="yooj"> 💃 </span>
+                <span class="yooj"> 🎰 </span>
+                <span class="yooj"> 💵 </span>
+                <span class="yooj"> 💎 </span>
+            </div>
+            <div>
+                <span class="yooj"> 🎰 </span>
+                <span class="yooj"> 🏦 </span>
+                <span class="yooj"> 💸 </span>
+                <span class="yooj"> 😎 </span>
+                <span class="yooj"> 💸 </span>
+                <span class="yooj"> 🏦 </span>
+                <span class="yooj"> 🎰 </span>
+            </div>
+            <div>
+                <span class="yooj"> 💎 </span>
+                <span class="yooj"> 💵 </span>
+                <span class="yooj"> 🎰 </span>
+                <span class="yooj"> 💃 </span>
+                <span class="yooj"> 🎰 </span>
+                <span class="yooj"> 💵 </span>
+                <span class="yooj"> 💎 </span>
+            </div>
+            <div>
+                <span class="yooj"> 💰 </span>
+                <span class="yooj"> 💃 </span>
+                <span class="yooj"> 💴 </span>
+                <span class="yooj"> 🏦 </span>
+                <span class="yooj"> 💴 </span>
+                <span class="yooj"> 💃 </span>
+                <span class="yooj"> 💰 </span>
+            </div>
+            <div>
+                <span class="yooj"> 💃 </span>
+                <span class="yooj"> 💰 </span>
+                <span class="yooj"> 💎 </span>
+                <span class="yooj"> 🎰 </span>
+                <span class="yooj"> 💎 </span>
+                <span class="yooj"> 💰 </span>
+                <span class="yooj"> 💃 </span>
+            </div>
+        </article>
+        <script>
+            console.log(document.body.innerHTML);
+            els = document.querySelectorAll('.yooj');
+            for (var el in els) {
+                els[el].innerHTML = emojione.unicodeToImage(els[el].innerHTML);
+                els[el].innerHTML = els[el].innerHTML.replace(/(src=".*cdn.*emojione.*)\/png\/(.*)\.png/g, "$1/svg/$2.svg");
+            }
+        </script>
+    </body>
+</html>

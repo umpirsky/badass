@@ -12,5 +12,5 @@ _Stay badass, my friends._
 
 
 Links: 
-http://wardowsmcc.github.io/badass/index.html__
-http://wardowsmcc.github.io/badass/badass-color-logo.html__
+http://wardowsmcc.github.io/badass/index.html<br />
+http://wardowsmcc.github.io/badass/badass-color-logo.html<br />

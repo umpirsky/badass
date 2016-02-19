@@ -1,7 +1,7 @@
 # badass
-This is a badass repository.
+This is the badass repository.
 
-Any badass pull request will be merged.
+Any badass pull request will be merged in the most badass way.
 
 Thanks to https://github.com/xDragonZ for our new badass logo.
 ___

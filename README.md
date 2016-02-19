@@ -1,10 +1,10 @@
-[```💃 💰 💎 🎰 💎 💰 💃```](http://wardowsmcc.github.io/badass/)  
-[```💰 💃 💵 🏦 💵 💃 💰```](http://wardowsmcc.github.io/badass/)  
-[```💎 💵 🎰 💃 🎰 💵 💎```](http://wardowsmcc.github.io/badass/)  
-[```🎰 🏦 💸 😎 💸 🏦 🎰```](http://wardowsmcc.github.io/badass/)  
-[```💎 💵 🎰 💃 🎰 💵 💎```](http://wardowsmcc.github.io/badass/)  
-[```💰 💃 💵 🏦 💵 💃 💰```](http://wardowsmcc.github.io/badass/)  
-[```💃 💰 💎 🎰 💎 💰 💃```](http://wardowsmcc.github.io/badass/)
+[:dancer: :moneybag: :moneybag: :slot_machine: :moneybag: :moneybag: :dancer:](http://wardowsmcc.github.io/badass/)  
+[:moneybag: :dancer: :dollar: :bank: :dollar: :dancer: :moneybag:](http://wardowsmcc.github.io/badass/)   
+[:moneybag: :dollar: :slot_machine: :dancer: :slot_machine: :dollar: :moneybag:](http://wardowsmcc.github.io/badass/)  
+[:slot_machine: :bank: :money_with_wings: :sunglasses: :money_with_wings: :bank: :slot_machine:](http://wardowsmcc.github.io/badass/)   
+[:moneybag: :dollar: :slot_machine: :dancer: :slot_machine: :dollar: :moneybag:](http://wardowsmcc.github.io/badass/)  
+[:moneybag: :dancer: :dollar: :bank: :dollar: :dancer: :moneybag:](http://wardowsmcc.github.io/badass/)   
+[:dancer: :moneybag: :moneybag: :slot_machine: :moneybag: :moneybag: :dancer:](http://wardowsmcc.github.io/badass/)  
 
 _Stay badass, my friends._
 

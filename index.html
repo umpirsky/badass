@@ -7,6 +7,16 @@
     </head>
     <body>
         <style>
+            #shade {
+                display: inline-block;
+                position: fixed;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                box-shadow: inset 0 0 10vw 10vw white;
+                z-index: 10;
+            }
             body {
                 margin: 0;
             }
@@ -31,6 +41,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.1.0/assets/css/emojione.min.css" charset="utf-8"/>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.1.0/lib/js/emojione.min.js"></script>
         <article id="superhero">
+            <div id="shade"></div>
             <div>
                 <span class="yooj"> 💃 </span>
                 <span class="yooj"> 💰 </span>

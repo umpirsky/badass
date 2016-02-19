@@ -10,7 +10,7 @@ _Stay badass, my friends._
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- the most interesting man in the world.
 
-
-Links: 
+<br />
+Links:<br />
 http://wardowsmcc.github.io/badass/index.html<br />
 http://wardowsmcc.github.io/badass/badass-color-logo.html<br />

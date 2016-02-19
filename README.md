@@ -17,6 +17,6 @@ ___
 ___
 
 Twitter: https://twitter.com/itswardow
-# \#Team Salvation
+# \#TeamSalvation
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)
